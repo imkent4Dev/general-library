@@ -11,7 +11,7 @@
     
     <name>Common Library</name>
     <description>Reusable common library for microservices</description>
-    <url>https://github.com/yourusername/common-lib</url>
+    <url>https://github.com/imkent4Dev/common-lib</url>
     
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -39,7 +39,7 @@
     <scm>
         <connection>scm:git:git://github.com/yourusername/common-lib.git</connection>
         <developerConnection>scm:git:ssh://github.com:yourusername/common-lib.git</developerConnection>
-        <url>https://github.com/yourusername/common-lib</url>
+        <url>https://github.com/imkent4Dev/common-lib</url>
         <tag>HEAD</tag>
     </scm>
     
